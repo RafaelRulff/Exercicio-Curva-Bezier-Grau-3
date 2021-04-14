@@ -19,6 +19,7 @@ plt.plot(
 
 plt.plot(
 	points1[:, 0],  # x-coordinates.
+	
 	points1[:, 1],  # y-coordinates.
 	
 	'ro:'           # Styling (red, circles, dotted).
