@@ -28,5 +28,3 @@ plt.plot(
 plt.grid()
 
 plt.show()
-
-See examples.py for more.
